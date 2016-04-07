@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **Mondo Developers Slack and Community Forum** should be a safe place for everybody regardless of
+The **Mondo Community Forum and Developers Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -10,7 +10,7 @@ The **Mondo Developers Slack and Community Forum** should be a safe place for ev
 - age
 - religion
 
-As someone who is part of this Slack, you agree that:
+As someone who is part of this community, you agree that:
 
 * We are collectively and individually committed to safety and inclusivity.
 * We have zero tolerance for abuse, harassment, or discrimination.
@@ -32,6 +32,25 @@ We condemn:
 * Threats of harm, harassment
 * Anything that compromises people’s safety
 
+You may wish to respond to something by disagreeing with it. That’s fine. But, remember to criticize ideas, not people. Please avoid:
+
+* Name-calling.
+* Ad hominem attacks.
+* Responding to a post’s tone instead of its actual content.
+* Knee-jerk contradiction.
+* Instead, provide reasoned counter-arguments that improve the conversation.
+
+Nothing sabotages a healthy conversation like rudeness:
+
+* Be civil. Don’t post anything that a reasonable person would consider offensive, abusive, or hate speech.
+* Keep it clean. Don’t post anything obscene or sexually explicit.
+* Respect each other. Don’t harass or grief anyone, impersonate people, or expose their private information.
+* Respect our forum. Don’t post spam or otherwise vandalize the forum.
+* 
+These are not concrete terms with precise definitions — avoid even the appearance of any of these things. If you’re unsure, **ask yourself how you would feel if your post was featured on the front page of the New York Times**.
+
+This is a public forum, and search engines can index these discussions. Keep the language, links, and images safe for family and friends.
+
 **These things are NOT OK.**
 
 If you say something that is found offensive, and you are called out on it, let’s:
@@ -44,11 +63,8 @@ If you say something that is found offensive, and you are called out on it, let�
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
+**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Their details are below:**
 
-* Joe Fabisevich - @mergesort
-* Tom Catterall - @swizzlr
-* Jeff Forbes - @jforbes
-* Jeff Grossman - @jeffgrossman
+* Tristan Thomas - tristan@getmondo.co.uk
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*

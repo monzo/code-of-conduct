@@ -21,16 +21,16 @@ We avoid using offensive topics as a form of humor.
 
 We actively work towards:
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+* Being a safe community.
+* Cultivating a network of support & encouragement for each other.
+* Encouraging responsible and varied forms of expression.
 
 
 We condemn:
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment
-* Anything that compromises people’s safety
+* Stalking, doxxing, or publishing private information.
+* Threats of harm, harassment.
+* Anything that compromises people’s safety.
 
 You may wish to respond to something by disagreeing with it. That’s fine. But, remember to criticize ideas, not people. Please avoid:
 

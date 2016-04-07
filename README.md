@@ -58,7 +58,7 @@ If you say something that is found offensive, and you are called out on it, letâ
 * Listen without interruption.
 * Believe what the person is saying & do not attempt to disqualify what they have to say.
 * Ask for tips / help with avoiding making the offense in the future.
-* Apologize and ask forgiveness.
+* Apologise and ask forgiveness.
 
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 

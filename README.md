@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **Mondo Community Forum and Developers Slack** should be a safe place for everybody regardless of
+The **Monzo Community Forum and Developers Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression
 - sexual orientation

@@ -63,5 +63,7 @@ Failing to follow the community guidelines as described in this document carries
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Their details are below:**
 
 * Tristan Thomas - tristan@monzo.com
+* Naji Esiri — naji@monzo.com
+* Richard Raybould — richard.raybould@monzo.com
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the community unless it is required as a result of a discussed dispute.*

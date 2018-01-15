@@ -1,19 +1,27 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
+<p align="center">
+  <a href="https://monzo.com" title="Monzo Logo" target="_blank">
+    <img src="https://monzo.com/static/images/logo.svg" alt="Monzo Logo">
+  </a>
+</p>
 
-The **Monzo Community Forum and Developers Slack** should be a safe place for everybody regardless of
+<h1 align="center">Monzo Community Code of Conduct</h1>
 
-- gender, gender identity or gender expression
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
+> <sub>last updated: _15th Jan 2018_</sub>
+>
+> <sub>*This policy is a "living" document, and subject to refinement and expansion in the future.*</sub>
 
-As someone who is part of this community, you agree that:
+This code of conduct covers the [Monzo Community Forum][monzo-community], the [Monzo Developers Slack][monzo-slack], and any other interactions between users on Monzo's platforms.
+
+All of Monzo's platforms should be a safe place for everybody regardless of _gender, gender identity or gender expression_, _sexual orientation_, _disability_, _physical appearance (including but not limited to body size)_, _race_, _age_, or _religion_.
+
+We have a zero-tolerance policy towards discrimination and _at minimum_ users will be suspended from our communities for violations.
+
+### Agreements
+
+As someone who is part of this community, **you agree** that:
 
 * we are collectively and individually committed to safety and inclusivity.
-* we have zero tolerance for abuse, harassment, or discrimination.
+* we have **zero tolerance** for abuse, harassment, or discrimination.
 * we respect people’s boundaries and identities.
 * we refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 * we avoid using offensive topics as a form of humor.
@@ -29,6 +37,8 @@ We condemn:
 * stalking, doxxing, or publishing private information.
 * threats of harm or harassment.
 * anything that compromises people’s safety.
+
+## Disputes
 
 You may wish to respond to something by disagreeing with it. That’s fine. But, remember to criticize ideas, not people. Please avoid:
 
@@ -49,7 +59,7 @@ These are not concrete terms with precise definitions — avoid even the appeara
 
 This is a public forum, and search engines can index these discussions. Keep the language, links, and images safe for family and friends.
 
-**These things are NOT OK.**
+## Be Humble
 
 If you say something that is found offensive, and you are called out on it, let’s:
 
@@ -58,7 +68,13 @@ If you say something that is found offensive, and you are called out on it, let�
 * ask for tips and help toward avoiding reoffending in the future.
 * apologise and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Do not expect someone you have wronged to forgive and forget, and don't repeatedly try to contact a user who has taken issue if they're not okay with it.
+
+## Harassment
+
+Targetting specific users and harassing them is unwelcome in this community. This _specifically_ includes responding to requests to stop with mockery, "Rules Lawyering" (implying harassing behavior is not harassing because it isn't explicitly stated in this document), or encouraging other users to join in. This will earn at minimum a ban, and potentially restricted access to community features.
+
+## Reporting Misconduct
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Their details are below:**
 
@@ -66,4 +82,14 @@ Failing to follow the community guidelines as described in this document carries
 * Naji Esiri — naji@monzo.com
 * Richard Raybould — richard.raybould@monzo.com
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the community unless it is required as a result of a discussed dispute.*
+Alternatively, you can private message them on the Community Forum or Slack.
+
+## Penalities for Misconduct
+
+Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack or the Community Forum. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+
+If a moderator finds that someone has breached the code of conduct repeatedly or excessively, they will take action up to and including serving a user notice to close their monzo account, or contacting law enforcement.
+
+[monzo]: https://monzo.com "Monzo Website"
+[monzo-community]: https://community.monzo.com "Monzo Community Forum"
+[monzo-slack]: https://monzodevelopers.slack.com "Monzo Developers Slack"

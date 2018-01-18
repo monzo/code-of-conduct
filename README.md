@@ -1,4 +1,4 @@
-*This policy is a "living" document, and subject to change in the future. Please [get in touch](# Alerting us 🙋) if you’d like to suggest any changes.*
+*This policy is a "living" document, and subject to change in the future. Please get in touch (see 'Alerting us' below) if you’d like to suggest any changes.*
 
 **The Monzo [Community Forum](community.monzo.com) and [Developers Slack](http://devslack.monzo.com/)** are places where Monzo users should feel welcome and included to share their opinions. And while we accept (and encourage) all manner of differing opinions, we also want to ensure people always feel safe 👍
 

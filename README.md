@@ -103,6 +103,7 @@ If you experience abuse, harassment, discrimination, or feel unsafe, let a moder
 - [Richard Raybould](https://community.monzo.com/u/richardr/summary) (richard.raybould@monzo.com)
 - [Simon Balmain](https://community.monzo.com/u/simonb/summary) (simonb@monzo.com)
 - [Beth Scott](https://community.monzo.com/u/beths/summary) (elizabeth@monzo.com)
+- [Hugh Wells](https://community.monzo.com/u/hughwells/summary) (hugh@monzo.com)
 
 Anything you share with moderators will be held in confidence, so please don’t hesitate in coming forward.
 

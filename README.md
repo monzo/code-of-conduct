@@ -43,7 +43,7 @@ We want everyone to feel included in our community. In particular, nobody should
 **We avoid:**
 
 - Name-calling.
-- Ad hominem attacks.
+- Ad hominem attacks (criticising a poster personally, not their post).
 - Responding to a post’s tone instead of its actual content.
 - Replying in a confrontational manner when we see a post we think needs attention (use the flag feature to report it instead).
 - Deliberately derailing threads, or other forms of trolling.

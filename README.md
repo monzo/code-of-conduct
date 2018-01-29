@@ -96,7 +96,7 @@ If you see a community post which breaches these guidelines, please flag it to m
 
 Posts that are flagged by several members of the community are automatically hidden until the author or a member of the team has reviewed it.
 
-** On Slack, you can alert us by writing @mods or @admin in the chat. **
+**On Slack**, you can alert us by writing @mods or @admin in the chat.
 
 If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know as soon as possible. Their details are below:
 

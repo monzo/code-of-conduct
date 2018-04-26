@@ -16,6 +16,8 @@ We want everyone to feel included in our community. In particular, nobody should
 - Age
 - Religion
 
+**A note on politics:** The Monzo Community is not intended to be a place for political discussions. But we understand that money is inherently political and, as a company, everything we do has an impact on society. So political discussions are not banned, but we don't tolerate using our forum as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
+
 # Our Shared Values ☀️
 
 **You agree that:**
@@ -48,6 +50,7 @@ We want everyone to feel included in our community. In particular, nobody should
 - Replying in a confrontational manner when we see a post we think needs attention (use the flag feature to report it instead).
 - Deliberately derailing threads, or other forms of trolling.
 - Posting low-value content that doesn’t add to the discussion.
+- Repeatedly making the same arguments, instead of moving on. Threads that end up going in circles will be locked.
 
 **We’re polite and respectful:**
 

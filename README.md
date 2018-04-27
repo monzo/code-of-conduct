@@ -105,7 +105,7 @@ If you experience abuse, harassment, discrimination, or feel unsafe, let a moder
 
 - [Richard Cook](https://community.monzo.com/u/cookywook/activity) (richardcook@monzo.com)
 - [Naji Esiri](https://community.monzo.com/u/naji/summary) (naji@monzo.com)
-- [Richard Raybould](https://community.monzo.com/u/richardr/summary) (richard.raybould@monzo.com)
+- [Rika Raybould](https://community.monzo.com/u/richardr/summary) (rika@monzo.com)
 - [Simon Balmain](https://community.monzo.com/u/simonb/summary) (simonb@monzo.com)
 - [Beth Scott](https://community.monzo.com/u/beths/summary) (elizabeth@monzo.com)
 - [Hugh Wells](https://community.monzo.com/u/hughwells/summary) (hugh@monzo.com)

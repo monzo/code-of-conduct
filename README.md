@@ -27,6 +27,7 @@ We want everyone to feel included in our community. In particular, nobody should
 - We respect people’s boundaries and identities.
 - We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 - We avoid using offensive topics as a form of humor.
+- We do not post anything that encourages or suggests ways of breaking the law, or the security measures of Monzo and other banks.
 
 **We actively work towards:**
 

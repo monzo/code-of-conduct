@@ -108,6 +108,7 @@ If you experience abuse, harassment, discrimination, or feel unsafe, let a moder
 - [Naji Esiri](https://community.monzo.com/u/naji/summary) (naji@monzo.com)
 - [Rika Raybould](https://community.monzo.com/u/richardr/summary) (rika@monzo.com)
 - [Simon Balmain](https://community.monzo.com/u/simonb/summary) (simonb@monzo.com)
+- [Brenda Wong](https://community.monzo.com/u/brenda/summary) (brenda@monzo.com)
 - [Beth Scott](https://community.monzo.com/u/beths/summary) (elizabeth@monzo.com)
 - [Hugh Wells](https://community.monzo.com/u/hughwells/summary) (hugh@monzo.com)
 

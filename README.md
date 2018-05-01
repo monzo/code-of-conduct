@@ -16,6 +16,8 @@ We want everyone to feel included in our community. In particular, nobody should
 - Age
 - Religion
 
+**A note on politics:** Political discussions are not banned, but we don't tolerate using our forum as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
+
 # Our Shared Values ☀️
 
 **You agree that:**
@@ -25,6 +27,7 @@ We want everyone to feel included in our community. In particular, nobody should
 - We respect people’s boundaries and identities.
 - We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 - We avoid using offensive topics as a form of humor.
+- We do not suggest or speculate on ways of breaking the law, or the security measures of Monzo and other banks.
 
 **We actively work towards:**
 
@@ -48,6 +51,7 @@ We want everyone to feel included in our community. In particular, nobody should
 - Replying in a confrontational manner when we see a post we think needs attention (use the flag feature to report it instead).
 - Deliberately derailing threads, or other forms of trolling.
 - Posting low-value content that doesn’t add to the discussion.
+- Repeatedly making the same arguments, instead of moving on. Threads that end up going in circles will be locked.
 
 **We’re polite and respectful:**
 
@@ -102,8 +106,9 @@ If you experience abuse, harassment, discrimination, or feel unsafe, let a moder
 
 - [Richard Cook](https://community.monzo.com/u/cookywook/activity) (richardcook@monzo.com)
 - [Naji Esiri](https://community.monzo.com/u/naji/summary) (naji@monzo.com)
-- [Richard Raybould](https://community.monzo.com/u/richardr/summary) (richard.raybould@monzo.com)
+- [Rika Raybould](https://community.monzo.com/u/richardr/summary) (rika@monzo.com)
 - [Simon Balmain](https://community.monzo.com/u/simonb/summary) (simonb@monzo.com)
+- [Brenda Wong](https://community.monzo.com/u/brenda/summary) (brenda@monzo.com)
 - [Beth Scott](https://community.monzo.com/u/beths/summary) (elizabeth@monzo.com)
 - [Hugh Wells](https://community.monzo.com/u/hughwells/summary) (hugh@monzo.com)
 

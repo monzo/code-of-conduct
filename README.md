@@ -16,7 +16,7 @@ We want everyone to feel included in our community. In particular, nobody should
 - Age
 - Religion
 
-**A note on politics:** The Monzo Community is not intended to be a place for political discussions. But we understand that money is inherently political and, as a company, everything we do has an impact on society. So political discussions are not banned, but we don't tolerate using our forum as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
+**A note on politics:** Political discussions are not banned, but we don't tolerate using our forum as a personal soapbox to air political opinions. As always, our moderators have the final say on this.
 
 # Our Shared Values ☀️
 

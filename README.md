@@ -101,18 +101,14 @@ If you see a community post which breaches these guidelines, please flag it to m
 
 Posts that are flagged by several members of the community are automatically hidden until the author or a member of the team has reviewed it.
 
-**On Slack**, you can alert us by writing @mods or @admin in the chat.
+**On Slack**, you can alert us by writing @mods in the chat.
 
-If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know as soon as possible. Their details are below:
+If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know as soon as possible.
 
 - [Richard Cook](https://community.monzo.com/u/cookywook/activity) (richardcook@monzo.com)
 - [Naji Esiri](https://community.monzo.com/u/naji/summary) (naji@monzo.com)
-- [Rika Raybould](https://community.monzo.com/u/richardr/summary) (rika@monzo.com)
 - [Simon Balmain](https://community.monzo.com/u/simonb/summary) (simonb@monzo.com)
-- [Brenda Wong](https://community.monzo.com/u/brenda/summary) (brenda@monzo.com)
-- [Beth Scott](https://community.monzo.com/u/beths/summary) (elizabeth@monzo.com)
-- [Hugh Wells](https://community.monzo.com/u/hughwells/summary) (hugh@monzo.com)
 
-Anything you share with moderators will be held in confidence, so please don’t hesitate in coming forward.
+Anything you share with moderators will be held in confidence. So please don’t hesitate in coming forward.
 
 # Thanks for helping keep the Community a fun place to get involved. And happy posting! 💖

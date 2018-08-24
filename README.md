@@ -96,8 +96,8 @@ Whenever a warning is issued, we will refer back to this document and indicate t
 If you see a community post which breaches these guidelines, please flag it to make one of the team aware. Here’s how -
 
 1. Click the three dots (...) on the post. ![threedots](https://community.monzo.com/uploads/monzo/original/2X/0/05ffe248ffb734d55aa9a2256b0fe4149ca9068f.png)
-2. Tap the **flag**. ![flag](https://discourse-cdn-sjc1.com/business2/uploads/monzo/original/2X/a/aba73a6df9cb2002d7c1daf018922aef7ae04752.png)
-3. Select a reason, and click **Flag Post**. ![flagpostoptions](https://discourse-cdn-sjc1.com/business2/uploads/monzo/optimized/2X/3/393fc42962f586184a1a4bf757ff6cd55ffba0f8_1_690x458.png)
+2. Tap the **flag**. ![flag](https://discourse-cdn-sjc1.com/business5/uploads/monzo/original/2X/a/aba73a6df9cb2002d7c1daf018922aef7ae04752.png)
+3. Select a reason, and click **Flag Post**. ![flagpostoptions](https://discourse-cdn-sjc1.com/business5/uploads/monzo/optimized/2X/3/393fc42962f586184a1a4bf757ff6cd55ffba0f8_1_690x458.png)
 
 Posts that are flagged by several members of the community are automatically hidden until the author or a member of the team has reviewed it.
 

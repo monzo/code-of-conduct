@@ -52,6 +52,7 @@ We want everyone to feel included in our community. In particular, nobody should
 - Deliberately derailing threads, or other forms of trolling.
 - Posting low-value content that doesn’t add to the discussion.
 - Repeatedly making the same arguments, instead of moving on. Threads that end up going in circles will be locked.
+- Creating multiple accounts (aka 'sockpuppets').
 
 **We’re polite and respectful:**
 

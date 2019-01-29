@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to change in the future. Please get in touch (see 'Alerting us' below) if you’d like to suggest any changes.*
 
-**The Monzo [Community Forum](https://community.monzo.com) and [Developers Slack](http://devslack.monzo.com/)** are places where Monzo users should feel welcome and included to share their opinions. And while we accept (and encourage) all manner of differing opinions, we also want to ensure people always feel safe 👍
+The Monzo [Community Forum](https://community.monzo.com) is a place where Monzo users should feel welcome and included to share their opinions. And while we accept (and encourage) all manner of differing opinions, we also want to ensure people always feel safe 👍
 
 The purpose of this document is to outline our community values - what we do, and don’t, stand for - and the measures we take to protect them.
 

@@ -80,12 +80,12 @@ We take a strong stance on enforcing our community guidelines. In severe cases, 
 
 For other violations, we’ll follow these steps -
 
-**First offence:** we’ll issue a formal warning, through the community or a Slack Direct Message.
+**First offence:** we’ll issue a formal warning.
 Whenever a warning is issued, we will refer back to this document and indicate the part of the Code of Conduct we feel has been breached.
 
 **Second offence:** a further warning will be issued, in stronger terms. Offenders will be reminded of the consequences of continuing to break the Code of Conduct - which can include suspension or removal from the Community.
 
-**Third offence**: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Community forum and Slack channel (for extremely serious situations).
+**Third offence**: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Community forum (for extremely serious situations).
 
 **For future offences,** if - following a suspension - the user returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
 
@@ -100,8 +100,6 @@ If you see a community post which breaches these guidelines, please flag it to m
 3. Select a reason, and click **Flag Post**. ![flagpostoptions](https://discourse-cdn-sjc1.com/business5/uploads/monzo/optimized/2X/3/393fc42962f586184a1a4bf757ff6cd55ffba0f8_1_690x458.png)
 
 Posts that are flagged by several members of the community are automatically hidden until the author or a member of the team has reviewed it.
-
-**On Slack**, you can alert us by writing @mods in the chat.
 
 If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know as soon as possible.
 

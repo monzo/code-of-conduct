@@ -80,16 +80,11 @@ We take a strong stance on enforcing our community guidelines. In severe cases, 
 
 For other violations, we’ll follow these steps -
 
-**First offence:** we’ll issue a formal warning.
-Whenever a warning is issued, we will refer back to this document and indicate the part of the Code of Conduct we feel has been breached.
+**First offence:** we'll send you a warning. We'll be in touch to let you know what you did, and we'll point out which part of the Code of Conduct you're breaking.
 
-**Second offence:** a further warning will be issued, in stronger terms. Offenders will be reminded of the consequences of continuing to break the Code of Conduct - which can include suspension or removal from the Community.
+**Second offence:** we'll take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Community forum (for extremely serious situations).
 
-**Third offence**: we will take an action. This can be a short-term suspension (for repeated misbehaviour), a long-term suspension (for repeated misbehaviour on a large scale, or a significant incident), or outright removal from the Community forum (for extremely serious situations).
-
-**For future offences,** if - following a suspension - the user returns and continues to be disruptive and act contrary to the above agreements, a full removal will be implemented without warning.
-
-***tldr**; users receive two warnings (the second stronger), then an appropriate action, and following offences will result in removal.*
+**For future offences,** if - following a suspension - you return and are still disruptive, we'll fully remove you from the community.
 
 # Alerting us 🙋
 
